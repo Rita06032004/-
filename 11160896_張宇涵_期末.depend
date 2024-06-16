@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1716385412 source:c:\users\chang\onedrive\文件\桌面\11160896_張宇涵\11160896_張宇涵\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1716385412 c:\users\chang\onedrive\文件\桌面\11160896_張宇涵\11160896_張宇涵\glm.h
+	<GL/glut.h>
+
+1718373450 source:c:\users\chang\onedrive\文件\桌面\11160896_張宇涵\11160896_張宇涵\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	"CMP3_MCI.h"
+	<GL/glut.h>
+	"glm.h"
+	<stdio.h>
+
+1718095638 c:\users\chang\onedrive\文件\桌面\11160896_張宇涵\11160896_張宇涵\cmp3_mci.h
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
+1708879857 c:\users\chang\onedrive\文件\桌面\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1708879857 c:\users\chang\onedrive\文件\桌面\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
